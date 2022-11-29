@@ -18,7 +18,7 @@ This is a simple project on Speed controller of Dc Motor using 555IC Using Bread
 
 2]Tincker Cad:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Speed-controller-of-DC_Motor/blob/main/Speed%20Controller%20Tincker Cad.png" >
+  <img src="https://github.com/Gunasaikiran/Speed-controller-of-DC_Motor/blob/main/Speed%20Controller%20Tinker Cad.png" >
 </p>
 
 
