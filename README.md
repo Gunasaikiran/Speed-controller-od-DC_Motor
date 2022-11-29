@@ -5,7 +5,7 @@ This is a simple project on Speed controller of Dc Motor using 555IC Using Bread
 <h4>Technologies Used:</h4>
 <li>Proteus</li>
 <li>Matlab</li>
-<li>Tinkercad</li>
+<li>Tinkercad</li><br><br>
 
 
 
