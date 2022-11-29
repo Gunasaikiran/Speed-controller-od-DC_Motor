@@ -9,9 +9,24 @@ This is a simple project on Speed controller of Dc Motor using 555IC Using Bread
 
 
 
-
+1]Proteus:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
+  <img src="https://github.com/Gunasaikiran/Speed-controller-of-DC_Motor/blob/main/Speed%20Controller%20Proteus.png" >
+</p>
+
+
+
+2]Tincker Cad:
+<p align="center">
+  <img src="https://github.com/Gunasaikiran/Speed-controller-of-DC_Motor/blob/main/Speed%20Controller%20Tincker Cad.png" >
+</p>
+
+
+
+
+3]Matlab:
+<p align="center">
+  <img src="https://github.com/Gunasaikiran/Speed-controller-of-DC_Motor/blob/main/Speed%20Controller%20Matlab.png" >
 </p>
 
 Add a Star 🌟 to this 👆 Repository.<br>
